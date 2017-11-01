@@ -119,6 +119,7 @@ public class LGameTest extends AppCompatActivity implements View.OnClickListener
 
         board[0][0] = 1;
         button1.setBackgroundColor(getResources().getColor(R.color.colorAccent));
+        //Soy una modificacion xD
 
 
     }
